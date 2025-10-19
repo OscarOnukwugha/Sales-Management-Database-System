@@ -55,7 +55,7 @@ However, ensuring data normalization and relationship integrity was a key consid
 
 # Link to SQL File: 
 
-
+https://github.com/OscarOnukwugha/Sales-Management-Database-System/blob/main/Sales_Management_Database_System.sql
 
 # Conclusion:
 
